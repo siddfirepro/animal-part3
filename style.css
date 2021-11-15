@@ -1,0 +1,35 @@
+body{
+    font-family: 'Yuji Boku', serif;
+    background-color: gold;
+}
+.header_div{
+ background:whitesmoke ;
+
+}
+.header_div p{
+    color:rgb(255, 0, 0);
+    font-weight: bolder;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-size: 35px;
+    background-color: rgb(255, 187, 0);
+}
+.copy_right_footer{
+    position: fixed;
+    background:whitesmoke ;
+    bottom:0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow:5px 5px 5px black;
+}
+.main_div h2{
+    color: white;
+}
